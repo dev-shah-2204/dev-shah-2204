@@ -7,9 +7,9 @@ I plan on learning javascript and HTML after this and more languages down the li
 I also play video games and enjoy playing piano.
 
 # Recent Projects:
-__unique-username discord bot__
+**__unique-username discord bot__**</br>
 Personalised discord bot made for moderation and utility. Also includes fun commands.</br>
 More info [here](https://github.com/very-unique-username/unique-username-discord/blob/master/README.md)
 
-__dank-memer-mining__
+**__dank-memer-mining__**</br>
 Miner/Farmer for dank-memer currency made using the `discordpy` python library.
