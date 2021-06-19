@@ -13,7 +13,7 @@ More info [here](https://github.com/very-unique-username/unique-username-discord
 
 # My stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=7289da&bg_color=121212">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=60ff60&icon_color=bb2acf&text_color=7289da&bg_color=121212">
 
 ## dank-memer-mining</br>
 Miner/Farmer for dank-memer currency made using the `discordpy` python library.
