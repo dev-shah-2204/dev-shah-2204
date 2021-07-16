@@ -12,7 +12,7 @@ I also play video games, mostly shooters and enjoy playing piano.
 
 # Recent Projects:
 ## empic-plugin</br>
-Minecraft Java plugin. Making vanilla minecraft extremely difficult
+Minecraft Java plugin. Making vanilla minecraft extremely difficult to play. You get custom armor and weapons every 5 levels
 
 ## roastinator-v2</br>
 Personalised discord bot made for moderation and utility. Also includes mini-games.</br>
