@@ -1,10 +1,10 @@
 # Dev Shah
 Dev here doesn't mean developer if you were wondering
 
-I'm 16 years old and am learning how to code. I'm learning java at the moment, and would consider my self on an intermediate level. </br>
-I plan on learning javascript and HTML after this and more languages down the line, unless I get bored and quit.
+I'm 16 years old and am learning how to code. I'm learning java at the moment, and would consider my self on a beginner level. </br>
+I plan on learning web-development after this and more languages down the line, unless I get bored and quit.
 
-I also play video games, mostly shooters and enjoy playing piano.
+I also play video games, mostly shooters & minecraft and enjoy playing piano.
 
 # My stats
 
