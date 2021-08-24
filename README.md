@@ -6,7 +6,7 @@ I plan on learning web-development after this and more languages down the line, 
 
 I also play video games, mostly shooters & minecraft and enjoy playing piano.
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=3d3d3d&icon_color=3d3d3d&text_color=3d3d3d&bg_color=ffffff">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=3d3d3d&icon_color=3d3d3d&text_color=3d3d3d&bg_color=ffffff">-->
 
 # Recent Projects:
 ## [empic-plugin](https://github.com/dev-shah-2204/empic-plugin)</br>
