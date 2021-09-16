@@ -9,6 +9,9 @@ I also play video games, mostly shooters & minecraft and enjoy playing piano.
 <!--<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=3d3d3d&icon_color=3d3d3d&text_color=3d3d3d&bg_color=ffffff">-->
 
 # Recent Projects:
+## [doscprd-music-bot](https://github.com/dev-shah-2204/discord-music-bot)</br>
+Discord bot that plays music in voice channels
+
 ## [empic-plugin](https://github.com/dev-shah-2204/empic-plugin)</br>
 Minecraft Java plugin. Making vanilla minecraft extremely difficult to play. You get custom armor and weapons every 5 levels
 
