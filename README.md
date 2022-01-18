@@ -18,7 +18,7 @@ Discord bot to track Clash Royale stats for players and clans
 ## [discord-music-bot](https://github.com/dev-shah-2204/discord-music-bot)</br>
 Discord bot that plays music in voice channels
 
-## [empic-plugin](https://github.com/dev-shah-2204/empic-plugin)</br>
+## [minecraft-but-harder](https://github.com/dev-shah-2204/minecraft-but-harder)</br>
 Minecraft Java plugin. Making vanilla minecraft extremely difficult to play. You get custom armor and weapons every 5 levels
 
 ## [roastinator-v2](https://github.com/dev-shah-2204/roastinator-v2)</br>
