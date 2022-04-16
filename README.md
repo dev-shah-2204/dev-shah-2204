@@ -7,6 +7,7 @@ I plan on learning web-development after this and more languages down the line, 
 I also play video games, mostly shooters & minecraft and enjoy playing piano.
 
 <img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=3d3d3d&icon_color=3d3d3d&text_color=3d3d3d&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shah-2204&hide_border=true&hide=Procfile&layout=compact&langs_count=5&count_private=true&theme=graywhite">
 
 # Recent Projects:
 ## [apex-legends-tracker-bot](https://github.com/dev-shah-2204/apex-legends-tracker-bot)</br>
