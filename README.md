@@ -2,6 +2,7 @@
 Dev here doesn't mean developer if you were wondering
 
 I'm 17 years old and am learning how to code. I'm learning java at the moment, and would consider my self on a beginner level. </br>
+You could say I'm experienced with python </br>
 I plan on learning web-development after this and more languages down the line, unless I get bored and quit.
 
 I also play video games, mostly shooters & minecraft and enjoy playing piano.
@@ -10,6 +11,9 @@ I also play video games, mostly shooters & minecraft and enjoy playing piano.
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shah-2204&hide_border=true&hide=Procfile&layout=compact&langs_count=5&count_private=true&theme=graywhite">
 
 # Recent Projects:
+## [wordl](https://github.com/dev-shah-2204/wordl)</br>
+Basically the popular word guessing game known as [Wordle](https://www.nytimes.com/games/wordle) re-made in java.
+
 ## [apex-legends-tracker-bot](https://github.com/dev-shah-2204/apex-legends-tracker-bot)</br>
 Discord bot to track Apex Legends stats for PC players
 
