@@ -1,7 +1,7 @@
 # Dev Shah
 Dev here doesn't mean developer if you were wondering
 
-I'm 17 years old and am learning how to code. I'm learning java at the moment, and would consider my self on a beginner level. </br>
+I'm 18 years old and am learning how to code. I'm learning java at the moment, and would consider my self on a beginner level. </br>
 You could say I'm experienced with python </br>
 I plan on learning web-development after this and more languages down the line, unless I get bored and quit.
 
