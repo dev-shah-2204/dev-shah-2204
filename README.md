@@ -1,12 +1,6 @@
 # Dev Shah
 Dev here doesn't mean developer if you were wondering
 
-I'm 18 years old and am learning how to code. I'm learning java at the moment, and would consider my self on a beginner level. </br>
-You could say I'm experienced with python </br>
-I plan on learning web-development after this and more languages down the line, unless I get bored and quit.
-
-I also play video games, mostly shooters & minecraft. I also like playing piano and driving and working on cars.
-
 <!--<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=3d3d3d&icon_color=3d3d3d&text_color=3d3d3d&bg_color=ffffff">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shah-2204&hide_border=true&hide=Procfile&layout=compact&langs_count=5&count_private=true&theme=graywhite">-->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shah-2204&theme=graywhite" alt="kinkykabuto" />
