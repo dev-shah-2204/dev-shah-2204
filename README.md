@@ -1,4 +1,3 @@
-# Dev Shah
 Dev here doesn't mean developer if you were wondering
 
 <!--<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=3d3d3d&icon_color=3d3d3d&text_color=3d3d3d&bg_color=ffffff">
