@@ -1,8 +1,8 @@
 No, dev isn't short for developer
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=3d3d3d&icon_color=3d3d3d&text_color=3d3d3d&bg_color=ffffff">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shah-2204&hide_border=true&hide=Procfile&layout=compact&langs_count=5&count_private=true&theme=graywhite">
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shah-2204&theme=graywhite" alt="kinkykabuto" />-->
+<!--<img src="https://github-readme-stats.vercel.app/api?username=dev-shah-2204&&show_icons=true&title_color=3d3d3d&icon_color=3d3d3d&text_color=3d3d3d&bg_color=ffffff">-->
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-shah-2204&hide_border=true&hide=Procfile&layout=compact&langs_count=5&count_private=true&theme=graywhite">-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-shah-2204&theme=graywhite" alt="kinkykabuto" />
 
 # Recent Projects:
 ## [wordl](https://github.com/dev-shah-2204/wordl)</br>
